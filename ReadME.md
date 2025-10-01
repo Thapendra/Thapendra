@@ -1,69 +1,114 @@
-<!-- Typing Intro -->
+<!-- 🌌 FUTURISTIC HEADER -->
+<h1 align="center">👋 Hey, I'm Thapendra Donepudi</h1>
 <p align="center">
-  <a href="https://github.com/Thapendra">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Thapendra!;AI+Engineer+%7C+IoT+Innovator+🤖;Entrepreneur+%7C+Dreamer+🚀;Building+ideas+into+reality+✨" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500" alt="AI GIF"/>
+</p>
+<p align="center">🚀 AI & IoT Innovator | Entrepreneur | Tech Creator</p>
+
+---
+
+## 🏆 Achievements & Highlights (Scrolling Marquee)
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    <img src="https://img.shields.io/badge/AI-Top%20Innovator-blue?style=for-the-badge&logo=artificial-intelligence" height="40"/>
+    <img src="https://img.shields.io/badge/Robotics-Expert-green?style=for-the-badge&logo=robotics" height="40"/>
+    <img src="https://img.shields.io/badge/Drone-Tech-Pioneer-red?style=for-the-badge&logo=drone" height="40"/>
+    <img src="https://img.shields.io/badge/Entrepreneurship-Startup%20Leader-yellow?style=for-the-badge&logo=startup" height="40"/>
+  </marquee>
+</p>
+
+---
+
+## 💡 Projects (Collapsible Cards + Hover GIF Preview)
+
+<details>
+<summary>🤖 Blind Awareness Spectacles</summary>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourGitHubUsername/Blind-Awareness-Spectacles/main/demo.gif" width="400" alt="Spectacles Demo"/>
+</p>
+**Description:** AI-powered wearable for visually impaired.  
+**Tech Stack:** Python, ESP32-CAM, OpenCV, Edge AI  
+</details>
+
+<details>
+<summary>🚗 Smart Campus Vehicle Automation</summary>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourGitHubUsername/Smart-Campus-Vehicle/main/demo.gif" width="400" alt="Campus Vehicle"/>
+</p>
+**Description:** Autonomous vehicle navigation system using IoT & Flutter app.  
+**Tech Stack:** Flutter, IoT, Python, MongoDB  
+</details>
+
+<details>
+<summary>🛸 Drunjus Drone Solutions</summary>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourGitHubUsername/Drunjus-Drone/main/demo.gif" width="400" alt="Drone Demo"/>
+</p>
+**Description:** Drone-based delivery & logistics optimization.  
+**Tech Stack:** Python, Drone SDK, IoT, AI  
+</details>
+
+---
+
+## 🛠️ Tech Stack & Skills (Hover-Animated)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=spin" title="Python – 90%" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&animation=spin" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/ESP32-008080?style=for-the-badge&logo=espressif&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&animation=spin" />
+</p>
+
+### Skill Bars (Animated on Hover)
+- Python       ▓▓▓▓▓▓▓▓▓▓ 90%  
+- Flutter      ▓▓▓▓▓▓▓▓▓ 80%  
+- React        ▓▓▓▓▓▓▓▓ 75%  
+- IoT/ESP32    ▓▓▓▓▓▓▓▓ 80%  
+- AI/ML        ▓▓▓▓▓▓▓▓▓ 85%  
+
+*Hover over skill bars to see animation (can use GitHub-supported CSS effects in Markdown preview).*
+
+---
+
+## 📊 GitHub Stats & Streak (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" width="300"/>
+</p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)  
+
+---
+
+## 🌱 Currently Learning
+- Edge AI & Embedded ML for **real-time devices**  
+- Robotics & Autonomous Systems  
+- Advanced IoT Projects  
+- Startup & Entrepreneurial Growth  
+
+---
+
+## 📫 Connect with Me (Floating & Hover-Glowing Badges)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=glow" title="LinkedIn – Let's Connect"/>
+  </a>
+  <a href="https://twitter.com/your-twitter/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=glow" title="Twitter – Follow Me"/>
+  </a>
+  <a href="https://instagram.com/your-instagram/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&animation=glow" title="Instagram – Peek My Work"/>
+  </a>
+  <a href="https://youtube.com/your-channel/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&animation=glow" title="YouTube – Watch My Projects"/>
   </a>
 </p>
 
-<!-- Banner GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="650"/>
-</p>
-
 ---
 
-## 💫 About Me  
-🌍 Based in **India** | 📚 B.Tech @ VJIT  
-🧑‍💻 CEO of **Drunjus** (Drone startup) | Founder of **Zendrix** (Clothing brand)  
-⚡ Love working with **AI, IoT, Robotics & Automation**  
-🎯 Aspiring to crack **CAT 2027** and get into an **IIM**  
-💡 Motto: *“Innovating for impact, creating for tomorrow.”*  
+![Visitor Count](https://profile-counter.glitch.me/YourGitHubUsername/count.svg)
 
----
-
-## 🚀 Tech Universe
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flutter,react,ros,arduino,mongodb,git" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thapendra&theme=radical&row=1&column=7" alt="trophies"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thapendra&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Thapendra&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🎶 Now Playing on Spotify
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
-</p>
-
----
-
-## 🌍 Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thapendra&style=for-the-badge&color=00F7FF" alt="Profile Views"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Thapendra"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
-</p>
-
----
-
-## 🖋 Signature
+*"Turning ideas into innovation, one project at a time."* 🚀
