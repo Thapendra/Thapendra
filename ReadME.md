@@ -1,4 +1,4 @@
-# ![Animated Name](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=FF5733&center=true&vCenter=true&width=600&lines=  Hi+there+👋,+I'm+Thapendra+Donepudi)
+# ![Animated Name](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Thapendra+Donepudi)
 
 🚀 **B.Tech Student | Aspiring Entrepreneur | AI & IoT Enthusiast | Flutter Developer**
 
