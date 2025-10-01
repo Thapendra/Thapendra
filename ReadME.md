@@ -49,11 +49,12 @@ Passionate about building **AI-powered, IoT-integrated solutions** that solve re
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Animated & Glowing)
+![Thapendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thapendra-donepudi&show_icons=true&theme=radical&hide_title=false&count_private=true&hide_border=false)
 
-![Thapendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thapendra-donepudi&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thapendra-donepudi&layout=compact&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thapendra-donepudi&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thapendra-donepudi&theme=radical&hide_border=false)
 
 ---
 
