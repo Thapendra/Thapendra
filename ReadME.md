@@ -1,6 +1,4 @@
-# Hi there 👋, I'm Thapendra Donepudi
-
-![Profile Banner](https://github.com/thapendra-donepudi/thapendra-donepudi/blob/main/github-banner.png) <!-- Optional custom banner -->
+# ![Animated Name](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Thapendra+Donepudi)
 
 🚀 **B.Tech Student | Aspiring Entrepreneur | AI & IoT Enthusiast | Flutter Developer**
 
@@ -67,4 +65,3 @@ Passionate about building **AI-powered, IoT-integrated solutions** that solve re
 
 ## ⚡ Fun Fact
 I love **combining creativity with technology**—whether it's building smart gadgets, AI models, or launching ventures, I believe innovation starts with curiosity and action!  
-
